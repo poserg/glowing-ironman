@@ -35,7 +35,6 @@ begin
 
       s := 0;
       for i:=first to last do begin
-         Writeln(V[i]);
          s:= s + V[i];
       end;
 
